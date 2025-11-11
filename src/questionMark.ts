@@ -11,6 +11,6 @@ const isAdmin = false;
  * nullish
  */
 
-const theme = 'hello';
+const theme = null;
 
 const currentTheme = theme ?? 'light theme'
