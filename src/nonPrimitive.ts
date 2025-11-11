@@ -1,11 +1,11 @@
 const nameList:string[] =['opi','kasem','hridoy','tonmoy'];
 nameList.push('mithu')
-nameList.push(true)
+// nameList.push(true)
 const ageList:number[]=[2,3,4,5,5];
-ageList.push('seven')
+// ageList.push('seven')
 
 const isMarried:boolean[]=[true,false,true,true]
-isMarried.push(434)
+// isMarried.push(434)
 
 const mixed:(string | number|boolean)[]= ['opikorim',23,false]
 mixed[1] = 'kasem'
@@ -25,4 +25,21 @@ nameAge[1]=42
 const aboutMe:
 {name:string; age:number; isGf?:boolean; isMarried:boolean}=
 {name:'opi korim',age:23, isGf:false, isMarried:false}
-console.log(aboutMe)
+
+
+/**
+ * literal type ;
+ * 
+ */
+
+// const aboutCompany :{organization:'programing Hero', age:number}=
+// {organization:'programing Hero',age:45}
+
+// aboutCompany.organization='343jo'
+
+/**
+ * access modifire
+ */
+const aboutCompany :{readonly organization:string, age:number}=
+{organization:'programing Hero',age:45}
+

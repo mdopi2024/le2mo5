@@ -1,1 +1,1 @@
-{"version":3,"file":"primitive.js","sourceRoot":"","sources":["../src/primitive.ts"],"names":[],"mappings":";;AAAA,IAAM,QAAQ,GAAE,aAAa,CAAC;AAC9B,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAA"}
+{"version":3,"file":"primitive.js","sourceRoot":"","sources":["../src/primitive.ts"],"names":[],"mappings":";;AAAA,IAAI,QAAQ,GAAS,aAAa,CAAC;AACnC,IAAI,MAAM,GAAU,EAAE,CAAC;AACvB,IAAI,KAAK,GAAS,KAAK,CAAC;AACxB,OAAO,CAAC,GAAG,CAAC,QAAQ,EAAC,MAAM,EAAC,KAAK,CAAC,CAAA"}
